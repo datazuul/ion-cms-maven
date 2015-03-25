@@ -1,3 +1,8 @@
+Copyright (C) 2015  Ralf Eichinger (ralf.eichinger@gmail.com). All rights reserved.
+Copyright (C) 2002  Guillaume Bort(gbort@msn.com). All rights reserved.
+Copyright 2000-2002 (C) Intalio Inc. All Rights Reserved.
+Copyright (c) 2000 The Apache Software Foundation. All rights reserved.
+
 Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
