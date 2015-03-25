@@ -1,6 +1,9 @@
 Status
 ======
-Project modules compilable
+- Project modules compilable.
+- configuration templates (in resources) are not in use, yet
+- webapps start, but fail to configure
+- not functional, just code collection as inspiration...
 
 Changelog
 =========
@@ -10,6 +13,7 @@ v0.9
 
 - refactoring: from ANT build to MAVEN
 - removed french characters/comments that offended UTF-8 (sorry for this)
+- removed unused imports
 - upgrades:
  - batik: ? -> 1.6.0
  - castor: 0.9.3.9 -> 1.0
@@ -25,3 +29,7 @@ v0.9
  - opensymphony/osworkflow: 2.1.0 -> 2.1.0 local
  - servlet.jar: 2.3 -> 2.5
  - struts: 1.0 -> 1.0.2
+
+Roadmap
+=======
+Migrate to Spring framework and Spring MVC?
